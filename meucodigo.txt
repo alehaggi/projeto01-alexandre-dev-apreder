@@ -1,1 +1,2 @@
-Olá meu nome é Alexandre
+Olá meu nome é Alexandre.
+Estou no curso de Front-End do Senai.
